@@ -1,12 +1,19 @@
-# Prework Study Guide Webpage
+# Challenge-3 Password Generator
 
 ## Description
 
-The overall goal of this project was to build a resourceful and easy to use study guide for a student learning to code.
+This week’s challenge was to create a random password generator using JavaScript.
 
-The study guide’s purpose is meant to neatly organize all of the student’s notes. It also allows them to practice some of the things that they have learned which leads them to develop their coding skills.
+Using JavaScript and the provided starter code I managed to make something that barely resembles a password generator. 
 
-While developing this project there were times where certain things didn’t make sense at first, but the majority of the time I knew that I could find the answer as long as I exercised patience and looked in the right area. I kept myself motivated by telling myself that there always had to be an answer somewhere, I just had to find it. With so many resources available on the internet and dozens of useful articles on CSS, HTML, and JavaScript, I learned that this project was going to be manageable as long as I kept at it.
+While creating this application I struggled a lot with how to start the application along with keeping up with what variables did what and what they contained.
+
+The majority of my time was figuring out how a for loop ran and how it would randomly select string characters with the substring method . 
+
+I received some help from peers and luckily received good tips on how to start the application.
+
+Unfortunately I did not complete the challenge and didn’t get to meet most of the acceptance criteria.
+
 
 
 ## Installation
@@ -15,11 +22,6 @@ N/A
 
 ## Usage
 
-The study guide is split into 4 different sections. HTML, CSS, Git, and JavaScript.
-
-Each one of these sections have their own list tags where notes can be added, creating a bullet styled list.
-
-By right clicking the webpage and selecting the inspect option we have the ability to view the JavaScript running.
 
 
 ## Credits
